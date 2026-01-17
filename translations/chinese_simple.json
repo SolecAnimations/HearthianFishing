@@ -1,0 +1,173 @@
+{
+	"$schema": "https://raw.githubusercontent.com/outer-wilds-new-horizons/new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+	"DialogueDictionary": {
+
+		"Spinel": "斯宾奈尔",
+
+		"Spinel_OPTION_FISHING": "鱼况如何?",
+		"Spinel_OPTION_BASS": "我钓到了一条哈斯鲈鱼。",
+		"Spinel_OPTION_CAUGHT_ALL": "我钓到了木炉星上所有的鱼！",
+
+		"Spinel16_PAGE_1": "糟糕。非常糟糕。我连咬钩的都没有。为什么鱼这么难钓？",
+		"Spinel16_OPTION_1": "看起来没那么难。",
+
+		"Spinel17_PAGE_1": "看起来没那么难-",
+		"Spinel17_PAGE_2": "好吧，宇航疯子先生，我想看你试试钓鱼。看到我旁边的鱼竿了吗？那是一个<![CDATA[<color=orange>钓鱼点</color>]]>。使用钓鱼点看看你能钓到什么。",
+		"Spinel17_PAGE_3": "不过，在抛线之前你需要找一些<![CDATA[<color=orange>鱼饵</color>]]>。在村庄周围找找，试着找到一些你认为鱼会喜欢的<![CDATA[<color=orange>可食用</color>]]>的东西。",
+		"Spinel17_PAGE_4": "然后，把鱼饵带到你的鱼竿处抛线。最后，享受你的收获吧！有些鱼甚至味道不错！",
+
+		"Spinel18_PAGE_1": "你钓到了一条哈斯鲈鱼？噗，谁都能钓到哈斯鲈鱼。不过我对你这么快就钓到它印象深刻。你似乎真的对钓鱼感兴趣。",
+		"Spinel18_PAGE_2": "告诉你吧 - 我知道木炉星上有几种鱼，我听说过但一直没能钓到。我会把我的笔记上传到你的<![CDATA[<color=orange>飞船日志</color>]]>中。作为交换，我希望你找到它们并钓到它们！",
+		"Spinel18_PAGE_3": "这个星球上还有<![CDATA[<color=orange>两个</color>]]>很棒的钓鱼点你可以试试。此外，你可能会找到<![CDATA[<color=orange>新的鱼饵</color>]]>使用。我推荐使用<![CDATA[<color=orange>背包</color>]]>如果你有的话。",
+		"Spinel18_PAGE_4": "最后，我还会<![CDATA[<color=orange>升级你的鱼线</color>]]>。现在你可以在每个钓鱼点钓得更深一些。",
+		"Spinel18_PAGE_5": "我想就这些了。等你钓到<![CDATA[<color=orange>木炉星上所有的鱼</color>]]>后再来找我！",
+
+		"Spinel19_PAGE_1": "什么？！你钓到了木炉星上所有的鱼？？？",
+		"Spinel19_PAGE_2": "哦，你是说所有不同的种类。不是字面上星球上的每一条鱼。这样更合理。",
+		"Spinel19_PAGE_3": "嗯，我很佩服。你展现了耐心和毅力来捕捉和记录所有这些物种。我很感激。",
+		"Spinel19_PAGE_4": "如果这个mod不是演示版，我会给你另一个升级并告诉你去哪里。但既然是演示版，我觉得需要一个更简洁和俗套的说法...",
+		"Spinel19_PAGE_5": "<![CDATA[<color=orange>感谢游玩！</color>]]>",
+
+		"FISHING_ROD_READY": "你的鱼竿准备好了。你想做什么？",
+		"LEAVE_IT": "什么都不做。",
+		"CAST_IT": "抛线！",
+		"TOO_SHORT": "你的线太短，什么也没钓到。",
+		"TOO_LONG": "你的线太长，什么也没钓到。",
+		"CAUGHT_NOTHING": "连咬钩的都没有...",
+
+		"CAST_1_METER": "在1米处抛线。",
+		"CAST_5_METERS": "在5米处抛线。",
+		"CAST_20_METERS": "在20米处抛线。",
+
+		"MARSHMALLOW_BAIT": "用棉花糖做鱼饵。",
+		"BAITED_WITH_MARSHMALLOW": "你的鱼竿用<![CDATA[<color=orange>棉花糖</color>]]>做了鱼饵。你想做什么？",
+		"SAP_WINE_BAIT": "用一点树液酒做鱼饵。",
+		"BAITED_WITH_SAP_WINE": "你的鱼竿用<![CDATA[<color=orange>树液酒</color>]]>做了鱼饵。你想做什么？",
+		"SHINY_ROCK_BAIT": "用闪亮的石头做鱼饵。",
+		"BAITED_WITH_SHINY_ROCK": "你的鱼竿用<![CDATA[<color=orange>闪亮的石头</color>]]>做了鱼饵。你想做什么？",
+
+		"HEARTHIAN_BASS_CATCH": "你钓到了一条<![CDATA[<color=orange>哈斯鲈鱼</color>]]>！你记得小时候吃过很多这种鱼。它味道平淡，但可以食用。",
+		"TIMBER_MACKEREL_CATCH": "你钓到了一条<![CDATA[<color=orange>木炉鲭鱼</color>]]>！咀嚼需要一些时间，但非常满足。",
+		"ANCESTRAL_SALMON_CATCH": "你钓到了一条<![CDATA[<color=orange>祖传鲑鱼</color>]]>！它四只眼睛看我的方式让我觉得不应该吃这个。",
+		"PINE_MULLET_CATCH": "你钓到了一条<![CDATA[<color=orange>松鲻鱼</color>]]>！它有非常鲜美的味道。我肯定还会再吃的。",
+		"WARPING_COD_CATCH": "你钓到了一条<![CDATA[<color=orange>跃迁鳕鱼</color>]]>！你试图切下它的鳍来吃，但鱼鳍不断在它身体周围消失和重现。你决定把它扔回去。",
+		"EERIE_EEL_CATCH": "你钓到了一条<![CDATA[<color=orange>诡异鳗鱼</color>]]>！你没有吃它，而是把它放进口袋。也许别人会想吃它。",
+		"SPARKLING_STONEFISH_CATCH": "你钓到了一条<![CDATA[<color=orange>闪光石鱼</color>]]>！它在你的牙齿间发出响亮的嘎吱声。你在硌到牙之前把它吐了出来。"
+
+
+	},
+	"ShipLogDictionary": {
+
+		"Spinel's Fishing Adventure": "斯宾奈尔的钓鱼冒险",
+		"Spinel's Quest": "斯宾奈尔的任务",
+		"I want to chat with Spinel about fishing. However, if I want to talk to them, I should avoid making them mad at me.": "我想和斯宾奈尔聊聊钓鱼。不过，如果想和他们说话，我应该避免惹他们生气。",
+		"Spinel has decided to teach me how to fish!": "斯宾奈尔决定教我钓鱼！",
+		"First, I need to find a fishing spot with a fishing rod.": "首先，我需要找到一个有鱼竿的钓鱼点。",
+		"Second, I need to bring bait and use it on the fishing rod.": "其次，我需要带鱼饵并在鱼竿上使用。",
+		"Finally, I cast my line in the water and hope for a bite!": "最后，我把线抛入水中，希望能有鱼上钩！",
+		"I found all of the fish on Timber Hearth! Spinel was very thankful. (This is where the demo ends.)": "我找到了木炉星上所有的鱼！斯宾奈尔非常感激。（演示到此结束。）",
+
+		"Line Upgrade": "鱼线升级",
+		"Spinel upgraded my fishing rod with a longer fishing line. I can now fish at 5 meters.": "斯宾奈尔用更长的鱼线升级了我的鱼竿。我现在可以在5米处钓鱼了。",
+
+		"Marshmallows": "棉花糖",
+		"BAIT_RUMOR_NAME": "鱼饵？",
+		"Spinel said that there is some bait in the Village. I wonder if I can find something at the Campsite.": "斯宾奈尔说村庄里有一些鱼饵。我想知道我能不能在营地找到些什么。",
+		"I found a can of marshmallows at Slate's Campsite that will make great fish bait.": "我在斯雷特的营地找到了一罐棉花糖，可以做成很好的鱼饵。",
+
+		"Sap Wine": "树液酒",
+		"Spinel said that there is some bait in the Village. I wonder if I can find something in the Lower Village.": "斯宾奈尔说村庄里有一些鱼饵。我想知道我能不能在村里找到些什么。",
+		"I found a small flask of sap wine. I can use it as bait by coating my hook in it.": "我找到了一小瓶树液酒。我可以用它涂在鱼钩上作为鱼饵。",
+
+		"Shiny Rock": "闪亮的石头",
+		"Spinel's notes say there may be additional bait underground.": "斯宾奈尔的笔记说地下可能有额外的鱼饵。",
+		"I found a Nomai box full of shiny rocks. Fish in dark areas are attracted to its shimmer.": "我找到了一个装满闪亮石头的挪麦盒子。黑暗区域的鱼被它的闪光所吸引。",
+
+		"Timber Hearth Fish": "木炉星上的鱼",
+		"Timber Hearth Fish?": "木炉星上有什么鱼？",
+		"I wonder what fish I can catch on Timber Hearth.": "我想知道在木炉星上能钓到什么鱼。",
+		"There are lots of fish to catch on Timber Hearth! Spinel said that they want me to catch them all.": "木炉星上有许多鱼可以钓！斯宾奈尔说他希望我把所有的鱼都钓到。",
+
+		"Waterfall Fishing Spot": "瀑布钓鱼点",
+		"Fishing Spot?": "钓鱼点？",
+		"Spinel wants me to fish somewhere near the Waterfall in the Village.": "斯宾奈尔想让我在村庄的瀑布附近钓鱼。",
+		"The Waterfall in the Village is an excellent fishing spot for beginners.": "村庄的瀑布是初学者的绝佳钓鱼点。",
+
+		"Grove Fishing Spot": "量子树林钓鱼点",
+		"Spinel's notes say there is another fishing spot near a large purple rock.": "斯宾奈尔的笔记说在紫色大岩石附近还有一个钓鱼点。",
+		"The Quantum Grove offers shallow waters and an intricate geyser system.": "量子树林提供浅水和复杂的地热喷泉系统。",
+
+		"Mine Fishing Spot": "挪麦矿井钓鱼点",
+		"Spinel's notes say there is another fishing spot in a dark cave.": "斯宾奈尔的笔记说在黑暗洞穴里还有一个钓鱼点。",
+		"The Nomai Mines has a water resevoir filled with strange fish.": "挪麦矿井有一个充满奇怪鱼类的蓄水池。",
+
+		"FISH_RUMOR_NAME": "鱼？",
+		"BAIT_RUMOR_NAME": "鱼饵？",
+
+		"HEARTHIAN_BASS_NAME": "哈斯鲈鱼",
+		"HEARTHIAN_BASS_RUMOR_TEXT": "斯宾奈尔想让我在瀑布钓一条鱼。这种鱼很常见，喜欢甜味鱼饵。",
+		"HEARTHIAN_BASS_CAUGHT_FACT_TEXT": "哈斯鲈鱼是木炉星上非常常见的鱼，到处都能找到。",
+		"HEARTHIAN_BASS_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在木炉星任何地方用棉花糖钓到。</color>]]>",
+
+		"TIMBER_MACKEREL_NAME": "木炉鲭鱼",
+		"TIMBER_MACKEREL_RUMOR_TEXT": "这种鱼喜欢树木和多汁的鱼饵。",
+		"TIMBER_MACKEREL_CAUGHT_FACT_TEXT": "木炉鲭鱼出没在林地周围。一些哈斯人报告说看到它从树木本身产生。",
+		"TIMBER_MACKEREL_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在瀑布用树液酒钓到。</color>]]>",
+
+		"ANCESTRAL_SALMON_NAME": "祖传鲑鱼",
+		"ANCESTRAL_SALMON_RUMOR_TEXT": "这种鱼和我住在同一个地方，我们都喜欢亮光。",
+		"ANCESTRAL_SALMON_CAUGHT_FACT_TEXT": "这种鱼看起来非常熟悉。侧面的小突起应该是腿吗？",
+		"ANCESTRAL_SALMON_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在瀑布用闪亮的石头钓到。</color>]]>",
+
+		"PINE_MULLET_NAME": "松鲻鱼",
+		"PINE_MULLET_RUMOR_TEXT": "这种鱼喜欢僻静的区域和多汁的鱼饵。",
+		"PINE_MULLET_CAUGHT_FACT_TEXT": "我一直想知道斯宾奈尔从哪里弄来的松鲻鱼。这种鱼在村庄里是美味佳肴。",
+		"PINE_MULLET_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在量子树林用树液酒钓到。</color>]]>",
+
+		"WARPING_COD_NAME": "跃迁鳕鱼",
+		"WARPING_COD_RUMOR_TEXT": "这种鱼的鳍每次我看它时都会重新排列。",
+		"WARPING_COD_CAUGHT_FACT_TEXT": "每次我看这条鱼时，它的身体部位都重新排列了。我不确定它是怎么做到的，因为它的身体显然是固体。值得注意的是，我的信号镜没有检测到来自这条鱼的任何信号。",
+		"WARPING_COD_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在量子树林用棉花糖钓到。</color>]]>",
+
+		"EERIE_EEL_NAME": "诡异鳗鱼",
+		"EERIE_EEL_RUMOR_TEXT": "这种鱼以从深处根须渗出的液体为食。",
+		"EERIE_EEL_CAUGHT_FACT_TEXT": "触摸诡异鳗鱼让我的耳朵竖起来。它显然已经积累了很长时间的静电。",
+		"EERIE_EEL_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在挪麦矿井用树液酒钓到。</color>]]>",
+
+		"SPARKLING_STONEFISH_NAME": "闪光石鱼",
+		"SPARKLING_STONEFISH_RUMOR_TEXT": "这种鱼只吃地下找到的某种食物。",
+		"SPARKLING_STONEFISH_CAUGHT_FACT_TEXT": "这条石鱼看起来和它吃的石头一模一样！",
+		"SPARKLING_STONEFISH_STATS_FACT_TEXT": "<![CDATA[<color=green>可以在挪麦矿井用闪亮的石头钓到。</color>]]>"
+
+
+	},
+
+	"UIDictionary": {
+
+		"MAIN_MENU_POPUP": "感谢下载哈斯空军传！如果你有兴趣学习钓鱼，请与斯宾奈尔交谈。（此mod也与Achievement+兼容。）",
+
+		"Sap Wine": "树液酒",
+		"Marshmallows": "棉花糖",
+		"Shiny Rocks": "闪亮的石头"
+
+	},
+	"AchievementTranslations": {
+
+
+		"HF_OBTAIN_FISHING_ROD": {
+			"Name": "哈斯人民需要我",
+			"Description": "向斯宾奈尔学习钓鱼。"
+		},
+		"HF_CATCH_BASS": {
+			"Name": "鱼恐惧着我",
+			"Description": "钓到你的第一条鱼！"
+		},
+		"HF_TH_ANGLER": {
+			"Name": "木炉星超级钓鱼佬",
+			"Description": "钓到木炉星上的每一种鱼。"
+		}
+
+
+
+	}
+}
